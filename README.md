@@ -23,7 +23,7 @@ The application provide this tasks:
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
 ```
-git clone https://github.com/esra888/DemoApplication.git
+git clone https://github.com/esra888/studentApp.git
 ```
 
 1. Imported it in Intellij IDEA or any other Java IDE.

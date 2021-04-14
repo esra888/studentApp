@@ -2,7 +2,7 @@
 
 An application of student registration system.
 
-The application provide this tasks:
+The application provides tasks in below:
 
 - Listing the offered courses, defining a new course and updating existing courses
 - Listing the students defined in the system, defining a new student and updating the existing student
